@@ -1,0 +1,78 @@
+{
+  "assets": {
+    "page_title": "Assets",
+    "warranty": {
+      "title1": "Warranty and Service information",
+      "title2": "Maintenance contact"
+    },
+    "buttons": {
+      "register": "Register asset",
+      "create": "Register"
+    },
+    "pagination": {
+      "general": "General Information",
+      "warranty": "Warranty Information",
+      "purchase": "Purchase Information"
+    },
+    "columns": {
+      "column1": "Name",
+      "column2": "Property",
+      "column3": "Room / area",
+      "column4": "Quantity",
+      "column5": "Options"
+    },
+    "register_title": "Register Assets",
+    "form": {
+      "rankSelect": [
+        "Standard",
+        "Critical",
+        "Statutory",
+        "Statutory-Critical"
+      ],
+      "statusSelect": [
+        "In-Service",
+        "Out-Of-Service",
+        "Abandoned In Place",
+        "Back-up",
+        "Emergency Use Only",
+        "Seasonally In-Service",
+        "Stand-By"
+      ],
+      "purchaseDate": "Purchase date",
+      "purchaseAmount": "Purchase amount",
+      "purchaseOrder": "Purchase order number",
+      "costCenter": "Cost center",
+      "replacementCost": "Est. replacement cost",
+      "lifeExpectancy": "Life expectancy date",
+      "estimatedLife": "Estimated life",
+      "annualRuntime": "Annual runtime",
+      "capitalRapair": "Capital repair cost",
+      "name": "Asset Name",
+      "number": "Serial Number",
+      "category": "Category",
+      "subCategory": "SubCategory",
+      "class": "Asset class",
+      "rank": "Asset rank",
+      "barcode": "Barcode number",
+      "model": "Model",
+      "status": "Asset status",
+      "service": "In-service Date",
+      "manufacture": "Manufacture",
+      "description": "Asset description",
+      "comment": "Asset safety comment",
+      "propety": "Property",
+      "space": "Space/Floor",
+      "room": "Room/Area",
+      "quantity": "Quantity",
+      "cotractNumber": "Warranty Contract Number",
+      "effectiveDate": "Effective date",
+      "expirationDate": "Expiration date",
+      "contaName": "Expiration contact name",
+      "contacPhone": "Expiration contact phone",
+      "vendor": "Warranty vendor",
+      "date": "Date",
+      "contractExpiration": "Maintenance contract expiration date",
+      "po": "Warranty PO"
+    }
+  }
+}
