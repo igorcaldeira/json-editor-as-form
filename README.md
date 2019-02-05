@@ -1,3 +1,14 @@
+#JSON editor as FORM
+
+Link de acesso: https://igorcaldeira.github.io/json-editor-as-form/
+
+Feito (rapidinho) pra ajudar pessoas que não sabem JSON a editar um JSON como se fosse um form (maneira mais amigável).
+Pode ser usado para trabalhar informações, realizar traduções e muito mais. :smile:
+
+
+----------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
